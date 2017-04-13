@@ -5,10 +5,11 @@ We will use the ‘Online News Popularity’ Data which outlines different set o
 The dataset features 60 attributes ranging from number of words in the title, number of links, keywords-best and worst, when was the article published, text subjectivity, use of negative words etc.  The whole data has numerical variables except URL which is the link of the article.
 
 The project will be done using JMP Pro 12. We will follow this pipeline:
-•	Sample: Data sampling
-•	Explore: Discover relationships between the attributes, abnormalities if available, using data visualization.
-•	Modify: create and transform attributes
-•	Model: Apply different models to get desired outcome
-•	Assess: The evaluation of the models applied.
+
+- Sample: Data sampling
+- Explore: Discover relationships between the attributes, abnormalities if available, using data visualization.
+- Modify: create and transform attributes
+- Model: Apply different models to get desired outcome
+- Assess: The evaluation of the models applied.
 
 In this Project, we aim to find out the best model and predict the popularity of the online news by predicting the total number of shares before the article is published using different algorithms. The Algorithms will be ranging from various regressions to Random forest. Their performances will be recorded and compared. We will also focus on feature selection methods to improve performance of the model and reduce the overall cost. 
